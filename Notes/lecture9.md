@@ -47,4 +47,4 @@ Turn the various metrics of the traffics into graphs in real-time.
 * Low: Incorrect display of the data but otherwise low impact
 
 ### Defect Status Flow
-![Defect Status Flow Image](defect_status_flow.png)
+![Defect Status Flow Image](https://www.c-sharpcorner.com/article/software-testing-the-essential-guide-to-bug-reports/Images/image003.jpg)
